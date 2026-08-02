@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Image Classifier using ResNet-50
 
 ## Project Overview
@@ -51,7 +50,3 @@ streamlit run app.py
 ## Author
 
 Prakash Panji
-=======
-# pre_trained_ResNet50_model
-pre_trained_ResNet50_model
->>>>>>> 2d807aa2ddda1259db224250eb613e130b3490b4
