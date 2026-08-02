@@ -1,0 +1,21 @@
+# Ignore trained models
+saved_model/
+*.keras
+*.h5
+*.ckpt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+myvenv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
