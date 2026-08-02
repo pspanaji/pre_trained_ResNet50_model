@@ -1,4 +1,8 @@
 # app.py-auto-generated
+import os
+
+print("Current working directory:", os.getcwd())
+print("Files:", os.listdir("."))
 
 import streamlit as st
 import tensorflow as tf
